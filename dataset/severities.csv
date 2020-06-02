@@ -1,0 +1,4 @@
+patient_id_anonymized,birads_final,birads_cc_l,birads_cc_r,birads_mlo_l,birads_mlo_r,birads_us_l,birads_us_r,birads_mri
+d045f565-e0be-432c-aaab-8296b169c529,2,1,,,,1,,1
+9cfd047c-14f1-45c3-aadc-02ec90feeae9,5,5,1,5,1,5,,5
+aec1f10a-a315-409e-b099-0e1c0bdc0077,3,1,1,1,1,3,,2

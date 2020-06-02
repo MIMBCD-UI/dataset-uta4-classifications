@@ -3,18 +3,13 @@
 # Author: Francisco Maria Calisto
 # ------------------------------------------
 cd dataset
-INPUT=overview.csv
+INPUT=severities.csv
 OLDIFS=$IFS
 IFS=','
-[ ! -f $INPUT ] && { echo "$INPUT file not found"; exit 100; }
-while read Age Contrast ContrastTag raw_input_path id tiff_name dicom_name
+[ ! -f $INPUT ] && { echo "$INPUT file not found"; exit 3; }
+while read patient_id birads_final
 do
-	echo "Age : $Age"
-	echo "Contrast : $Contrast"
-	echo "ContrastTag : $ContrastTag"
-	echo "raw_input_path : $raw_input_path"
-	echo "id : $id"
-	echo "tiff_name : $tiff_name"
-	echo "dicom_name : $dicom_name"
+	echo "Patient ID : $patient_id"
+	echo "BIRADS : $birads_final"
 done < $INPUT
 IFS=$OLDIFS

@@ -1,0 +1,4 @@
+patient_id_anonymized,pathology_cc_l,pathology_cc_r,pathology_mlo_l,pathology_mlo_r,pathology_us_l,pathology_us_r,pathology_mri
+d045f565-e0be-432c-aaab-8296b169c529,0,,,,0,,0
+9cfd047c-14f1-45c3-aadc-02ec90feeae9,2,0,2,0,2,,2
+aec1f10a-a315-409e-b099-0e1c0bdc0077,0,0,0,0,1,,1
