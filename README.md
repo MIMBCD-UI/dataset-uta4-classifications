@@ -23,13 +23,22 @@ We kindly ask **scientific works and studies** that make use of the repository t
 You can cite our work using the following BibTeX entry:
 
 ```
-@misc{https://doi.org/10.5281/zenodo.3738763,
-  doi = {10.5281/ZENODO.3738763},
-  url = {https://zenodo.org/record/3738763},
-  author = {Calisto,  Francisco Maria},
-  title = {opprDev/repo-template-datasets: v0.1.1-alpha},
-  publisher = {Zenodo},
-  year = {2020}
+@inproceedings{10.1145/3399715.3399744,
+author = {Calisto, Francisco Maria and Nunes, Nuno and Nascimento, Jacinto C.},
+title = {BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis},
+year = {2020},
+isbn = {9781450375351},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3399715.3399744},
+doi = {10.1145/3399715.3399744},
+abstract = {This paper describes the field research, design and comparative deployment of a multimodal medical imaging user interface for breast screening. The main contributions described here are threefold: 1) The design of an advanced visual interface for multimodal diagnosis of breast cancer (BreastScreening); 2) Insights from the field comparison of Single-Modality vs Multi-Modality screening of breast cancer diagnosis with 31 clinicians and 566 images; and 3) The visualization of the two main types of breast lesions in the following image modalities: (i) MammoGraphy (MG) in both Craniocaudal (CC) and Mediolateral oblique (MLO) views; (ii) UltraSound (US); and (iii) Magnetic Resonance Imaging (MRI). We summarize our work with recommendations from the radiologists for guiding the future design of medical imaging interfaces.},
+booktitle = {Proceedings of the International Conference on Advanced Visual Interfaces},
+articleno = {49},
+numpages = {5},
+keywords = {user-centered design, multimodality, medical imaging, human-computer interaction, healthcare systems, breast cancer, annotations},
+location = {Salerno, Italy},
+series = {AVI '20}
 }
 ```
 
