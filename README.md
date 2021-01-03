@@ -6,7 +6,6 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-classifications/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/dataset-uta4-classifications?style=flat-square)](https://github.com/MIMBCD-UI/dataset-uta4-classifications/commits/master)
-[![HitCount](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-classifications.svg)](http://hits.dwyl.io/MIMBCD-UI/dataset-uta4-classifications)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
@@ -194,6 +193,12 @@ Our organization is a non-profit organization. However, we have many needs acros
 #### Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+
+<span class="image">
+  <a href="graphs/contributors">
+    <img src="https://opencollective.com/oppr/contributors.svg?width=890" />
+  </a>
+</span>
 
 #### Backers
 
